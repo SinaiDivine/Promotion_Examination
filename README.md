@@ -36,7 +36,7 @@ JSON for data storage
 
 📂 Project Structure
 
-project/
+project
 │── main.py
 │── library_records.json
 │── README.md
